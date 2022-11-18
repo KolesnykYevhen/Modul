@@ -1,0 +1,13 @@
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tag.gz
+*.rar
+*.iml
+
+.idea/
+target/
+out/
+*.txt
